@@ -16,7 +16,7 @@ from lightgbm import LGBMRegressor
 # PAGE CONFIG
 # ===============================
 st.set_page_config(
-    page_title="NeuroTrack",
+    page_title="Interpretable Stacked Ensemble for Personlized Stress Prediction",
     layout="wide",
     page_icon="🧠"
 )
@@ -83,7 +83,7 @@ h1, h2, h3, p {
 # HEADER
 # ===============================
 st.markdown("""
-# 🧠 NeuroTrack  
+# 🧠 Interpretable Stacked Ensemble for Personlized Stress Prediction
 ### Personalized Stress Intelligence Platform
 """)
 
